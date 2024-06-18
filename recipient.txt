@@ -1,0 +1,8 @@
+Имя Igor Фамилия Fokin Телефон 111 Описание Python
+
+Имя Ivan Фамилия Bananov Телефон 222 Описание Java
+
+Имя Anna Фамилия Ivanova Телефон 333 Описание C+
+
+Имя Kim Фамилия ChenIn Телефон 777 Описание Baloon master
+Имя Kim Фамилия ChenIn Телефон 777 Описание Bal
