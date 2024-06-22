@@ -1,4 +1,5 @@
-Igor,Fokin,111,Python
-Ivan,Bananov,222,Java
-Anna,Ivanova,333,C+
-Kim,ChenIn,777,Baloon master
+Anna,    Ivanova,    333,    C+
+Igor,    Fokin,      111,    Python
+Ivan,    Bananov,    222,    Java
+Kim,     ChenIn,     777,  Baloon master
+Корь,   Вольфрамов,  666,    С++

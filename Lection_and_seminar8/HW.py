@@ -108,8 +108,8 @@ def write_txt(filename , phone_book):
 
             for key, word in result.items():
 
-                s = s + key + ' ' + word + ' '
+                s = s + word + '      '
 
-            phout.write(f'{s[:-1]}\n')
+            phout.write(f'{s} \n')
 
 work_with_phonebook()

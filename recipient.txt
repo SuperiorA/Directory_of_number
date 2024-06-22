@@ -1,8 +1,12 @@
-Имя Igor Фамилия Fokin Телефон 111 Описание Python
-
-Имя Ivan Фамилия Bananov Телефон 222 Описание Java
-
-Имя Anna Фамилия Ivanova Телефон 333 Описание C+
-
-Имя Kim Фамилия ChenIn Телефон 777 Описание Baloon master
-Имя Kim Фамилия ChenIn Телефон 777 Описание Bal
+Anna        Ivanova        333        C+
+     
+Igor        Fokin          111        Python
+     
+Ivan        Bananov        222        Java
+     
+Kim         ChenIn         777      Baloon master
+     
+Корь       Вольфрамов      666        С++
+     
+Anna    Ivanova    333777    C-
+     
