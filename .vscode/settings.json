@@ -1,5 +1,8 @@
 {
-    "pythonIndent.keepHangingBracketOnLine": true,
-    "pythonIndent.trimLinesWithOnlyWhitespace": true,
-    "pythonIndent.useTabOnHangingIndent": true
+    "java.debug.settings.onBuildFailureProceed": true
+}
+{
+   "java.project.referencedLibraries": [
+        "libs/json-20210307.jar"
+    ]
 }
